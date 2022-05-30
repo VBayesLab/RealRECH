@@ -11,8 +11,7 @@ Please, if you use the code in your published work, cite us as:
 	 author = {Nghia Nguyen and Minh-Ngoc Tran and Robert Kohn},
 	 title = {Recurrent Conditional Heteroskedasticity},
 	 journal = {Journal of Applied Econometrics},
-   doi = {https://doi.org/10.1002/jae.2902},
-   url = {https://onlinelibrary.wiley.com/do
+         doi = {https://doi.org/10.1002/jae.2902},
 	 year = "2022"
 }
 ```
