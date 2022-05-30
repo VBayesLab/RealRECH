@@ -1,7 +1,7 @@
 # RECH and RealRECH
 This repository includes the code that implements Bayesian inference and forecasting for the RECH and RealRECH models.
 
-Three folders SMC_for_GARCH, SMC_for_RealGARCH and SMC_for_RECH contain the implementation of SMC algorithm for fitting GARCH, RealGARCH and RECH (with realized measure) respectively.
+The folders SMC_for_GARCH, SMC_for_RealGARCH and SMC_for_RECH contain the implementation of SMC algorithm for fitting GARCH, RealGARCH and RECH (with realized measure) respectively.
 
 Run SP500_analysis.m to reproduce the empirical results for SP500 data.
 
